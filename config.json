@@ -1,48 +1,63 @@
 {
     "name": "João Reis",
     "job": "Front-End Developer",
+    "bg": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "github": "reissjoao",
+    "favorites": {
+        "youtubers": [
+            {
+                "name": "MeuMundoMinhaVida",
+                "url": "https://www.youtube.com/c/meumundominhavida",
+                "thumb": "https://yt3.ggpht.com/CuggJaRDfehvRhEVQohqfu4hbFpwq875bCZ1FQNneuiaiYDiiUDSyQ2Gz_uEkPcZlwaeHisxiw=s88-c-k-c0x00ffffff-no-rj.png"
+            },
+            {
+                "name": "Cortes do Casimito",
+                "url": "https://www.youtube.com/c/CortesdoCasimitoOFICIAL",
+                "thumb": "https://yt3.ggpht.com/ytc/AMLnZu-bu8UoUTz6sCJgx86VKU1HI1PheMS-2KjnkEZ0=s88-c-k-c0x00ffffff-no-rj.png"
+            },
+            {
+                "name": "Alura Cursos Online",
+                "url": "https://www.youtube.com/c/Alura",
+                "thumb": "https://yt3.ggpht.com/xqhIoXspeX7eqouJvNHl1xqpv9213Pl26ENZbuouXxO2RlDadjsveNXfgnj8GTUk7thFYUkVRg=s88-c-k-c0x00ffffff-no-rj.png"
+            },
+            {
+                "name": "Mario Souto - Dev Soutinho",
+                "url": "https://www.youtube.com/c/DevSoutinho",
+                "thumb": "https://yt3.ggpht.com/m8Yrqf0Y81L4mZ1Cq7rGnJ4NDHe6729rxiFZvWyy9-xd_Z7Osmza7J8NWpN1axMHcCb1oKJNgA=s88-c-k-c0x00ffffff-no-rj.png"
+            }
+        ]
+    },
     "playlists": {
-      "jogos": [
+      "Entretenimento": [
           {
-            "title": "Frostpunk - Neve e Steak tartare",
-            "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
-            "thumb": "https://img.youtube.com/vi/QsqatJxAUtk/hqdefault.jpg"
+            "title": "CASIMIRO REAGE: MASTERCHEF PROFISSIONAIS!",
+            "url": "https://www.youtube.com/watch?v=2e7bqvPUYZk&ab_channel=CortesdoCasimito%5BOFICIAL%5D",
+            "thumb": "https://i3.ytimg.com/vi/2e7bqvPUYZk/maxresdefault.jpg"
           },
           {
-            "title": "Frostpunk - Neve e Steak tartare",
-            "url": "https://www.youtube.com/watch?v=O8jtAyPuhNg",
-            "thumb": "https://img.youtube.com/vi/O8jtAyPuhNg/hqdefault.jpg"
+            "title": "DEFANTE EMPANANDO UMA PIZZA DE QUATRO QUEIJOS COM IGOR GUIMARAES",
+            "url": "https://www.youtube.com/watch?v=i4xgaXuarKo&ab_channel=Podpah",
+            "thumb": "https://i3.ytimg.com/vi/i4xgaXuarKo/maxresdefault.jpg"
           },
           {
-            "title": "Gas Station Simulator - 8 dias sem dormir!",
-            "url": "https://www.youtube.com/watch?v=R1d0DyRDG_Q",
-            "thumb": "https://img.youtube.com/vi/R1d0DyRDG_Q/hqdefault.jpg"
+            "title": "MC CARLOS FICOU MALUCO, ELE VAI VENDER TUDO !",
+            "url": "https://www.youtube.com/watch?v=HyX6f7HI0nI&ab_channel=meumundominhavida",
+            "thumb": "https://i3.ytimg.com/vi/HyX6f7HI0nI/maxresdefault.jpg"
           },
           {
-            "title": "Gartic Phone - Não assista a esse NerdPlayer!",
-            "url": "https://www.youtube.com/watch?v=0oJQUs5oRiM",
-            "thumb": "https://img.youtube.com/vi/0oJQUs5oRiM/hqdefault.jpg"
+            "title": "BUSCAMOS O COLDZERA, TACO E JAME DE CARRO?! REDONDO DAS MULAS",
+            "url": "https://www.youtube.com/watch?v=BQYlSKK_B3k&ab_channel=Gaules",
+            "thumb": "http://i3.ytimg.com/vi/BQYlSKK_B3k/hqdefault.jpg"
           },
           {
-            "title": "Netdecking Estraga o Magic?",
-            "url": "https://www.youtube.com/watch?v=dXihyhYEsEc",
-            "thumb": "https://img.youtube.com/vi/dXihyhYEsEc/hqdefault.jpg"
+            "title": "Desistir Jamais - The Road to Rio",
+            "url": "https://www.youtube.com/watch?v=vyu8SroPmqI&ab_channel=ESLCounter-Strike",
+            "thumb": "https://i3.ytimg.com/vi/vyu8SroPmqI/maxresdefault.jpg"
           },
           {
-            "title": "Cities: Skylines - EPCOTAB, o futuro de Saint Laurrent",
-            "url": "https://www.youtube.com/watch?v=zybKHMgLCWU",
-            "thumb": "https://img.youtube.com/vi/zybKHMgLCWU/hqdefault.jpg"
-          },
-          {
-            "title": "We Were Here Together - Os Enigmas deste Mundo",
-            "url": "https://www.youtube.com/watch?v=UKgQsrHUG40",
-            "thumb": "https://img.youtube.com/vi/UKgQsrHUG40/hqdefault.jpg"
-          },
-          {
-            "title": "Microsoft Flight Simulator - Top Gun: Oceania - Missão RJ!",
-            "url": "https://www.youtube.com/watch?v=n3TneUb5c-w",
-            "thumb": "https://img.youtube.com/vi/n3TneUb5c-w/hqdefault.jpg"
+            "title": "Solve This Coding Problem and Win $200",
+            "url": "https://www.youtube.com/watch?v=UsnRGo4y5FQ&ab_channel=KennyGunderman",
+            "thumb": "https://i3.ytimg.com/vi/UsnRGo4y5FQ/maxresdefault.jpg"
           }
         ],
       "front-end": [
@@ -57,9 +72,9 @@
           "thumb": "https://img.youtube.com/vi/llF6vD-RljE/hqdefault.jpg"
         },
         {
-          "title": "A Primeira Aula de Flutter Que Todo Mundo Deveria Ter",
-          "url": "https://www.youtube.com/watch?v=J4BVaXkwmM8",
-          "thumb": "https://img.youtube.com/vi/J4BVaXkwmM8/hqdefault.jpg"
+          "title": "Onde, como e o que praticar e estudar como Front End em 2022? FREE 0800",
+          "url": "https://www.youtube.com/watch?v=rk9WA1PXsYs&ab_channel=MarioSouto-DevSoutinho",
+          "thumb": "https://i3.ytimg.com/vi/rk9WA1PXsYs/maxresdefault.jpg"
         },
         {
           "title": "O QUE SÃO FRAMEWORKS E BIBLIOTECAS? QUAIS AS DIFERENÇAS?",
@@ -67,29 +82,19 @@
           "thumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
         },
         {
-          "title": "Angular (O Vídeo que Você Precisava para Começar no Framework) // Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=Yf0rC7dERjg",
-          "thumb": "https://img.youtube.com/vi/Yf0rC7dERjg/hqdefault.jpg"
+          "title": "Evolução do FRONT-END na prática (SPA, SSG e SSR)",
+          "url": "https://www.youtube.com/watch?v=dkPXIobiBM8&ab_channel=Rocketseat",
+          "thumb": "https://i3.ytimg.com/vi/dkPXIobiBM8/maxresdefault.jpg"
         },
         {
-          "title": "Como Foi Programado um App Que Faz Mágica",
-          "url": "https://www.youtube.com/watch?v=I36seuWUe5s",
-          "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
+          "title": "Responsividade na Prática | Masterclass #08",
+          "url": "https://www.youtube.com/watch?v=H91DhKPjhPk&t=126s&ab_channel=Rocketseat",
+          "thumb": "https://i3.ytimg.com/vi/H91DhKPjhPk/maxresdefault.jpg"
         },
         {
           "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
           "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
           "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
-        },
-        {
-          "title": "5 Erros Históricos do CSS",
-          "url": "https://www.youtube.com/watch?v=HNjkqONzGS0",
-          "thumb": "https://img.youtube.com/vi/HNjkqONzGS0/hqdefault.jpg"
-        },
-        {
-          "title": "Deploy de Front End ATUALIZADO! | O que eu uso para hospedagem de Front End",
-          "url": "https://www.youtube.com/watch?v=d9c0r-J6CdM",
-          "thumb": "https://img.youtube.com/vi/d9c0r-J6CdM/hqdefault.jpg"
         }
       ],
       "back-end": [
@@ -99,15 +104,15 @@
           "thumb": "https://img.youtube.com/vi/dvd3pNYh7So/hqdefault.jpg"
         },
         {
-          "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
-          "url": "https://www.youtube.com/watch?v=8q36rNS5yVo",
-          "thumb": "https://img.youtube.com/vi/8q36rNS5yVo/hqdefault.jpg"
+          "title": "Seja um Programador Back-End de Sucesso (dicas que gostaríamos ter recebido) // Vlog #98",
+          "url": "https://www.youtube.com/watch?v=TJ90DZjYdWI&ab_channel=C%C3%B3digoFonteTV",
+          "thumb": "https://i3.ytimg.com/vi/TJ90DZjYdWI/maxresdefault.jpg"
         },
         
         {
-          "title": "O que é o Java? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=90NcVNsKGik",
-          "thumb": "https://img.youtube.com/vi/90NcVNsKGik/hqdefault.jpg"
+          "title": "Me veja programar um Backend que troca informação em tempo-real!",
+          "url": "https://www.youtube.com/watch?v=rc3SSOiwTns&ab_channel=FilipeDeschamps",
+          "thumb": "https://i3.ytimg.com/vi/rc3SSOiwTns/maxresdefault.jpg"
         },
         {
           "title": "O que é Machine Learning? #HipstersPontoTube",
@@ -120,9 +125,9 @@
           "thumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
         },
         {
-          "title": "Top 5 libs que todo aplicativo Android deve ter com Alex Felipe | #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ldRbnpy-qQs",
-          "thumb": "https://img.youtube.com/vi/ldRbnpy-qQs/hqdefault.jpg"
+          "title": "JavaScript para back-end | Hipsters.Talks",
+          "url": "https://www.youtube.com/watch?v=uyRDbGZG92E&ab_channel=AluraCursosOnline",
+          "thumb": "https://i3.ytimg.com/vi/uyRDbGZG92E/maxresdefault.jpg"
         },
         {
           "title": "O que é o C#? #HipstersPontoTube",
