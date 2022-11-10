@@ -1,7 +1,7 @@
 {
     "name": "João Reis",
     "job": "Front-End Developer",
-    "bg": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "bg": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
     "github": "reissjoao",
     "favorites": {
         "youtubers": [
@@ -58,6 +58,16 @@
             "title": "Solve This Coding Problem and Win $200",
             "url": "https://www.youtube.com/watch?v=UsnRGo4y5FQ&ab_channel=KennyGunderman",
             "thumb": "https://i3.ytimg.com/vi/UsnRGo4y5FQ/maxresdefault.jpg"
+          },
+          {
+            "title": "IMPERIAL NO MAJOR RIO | O MAIOR DA HISTÓRIA",
+            "url": "https://www.youtube.com/watch?v=dhOxinbtopc&ab_channel=ImperialEsports",
+            "thumb": "https://i3.ytimg.com/vi/dhOxinbtopc/maxresdefault.jpg"
+          },
+          {
+            "title": "Behind The Game S3 EP. 5 | FURIA x BIG | CLASSIFICAÇÃO PARA O CHAMPIONS STAGE",
+            "url": "https://www.youtube.com/watch?v=CDB28E7I8_4&ab_channel=FURIACS%3AGO",
+            "thumb": "https://i3.ytimg.com/vi/CDB28E7I8_4/maxresdefault.jpg"
           }
         ],
       "front-end": [
@@ -95,6 +105,11 @@
           "title": "O que todo iniciante em Front End deveria aprender | Como manipular arrays e objetos em JavaScript",
           "url": "https://www.youtube.com/watch?v=yS7AcF-xRUg",
           "thumb": "https://img.youtube.com/vi/yS7AcF-xRUg/hqdefault.jpg"
+        },
+        {
+          "title": "TUDO que você deve estudar de JavaScript antes do React",
+          "url": "https://www.youtube.com/watch?v=37SwqREHRGI&t=1293s&ab_channel=Rocketseat",
+          "thumb": "https://i3.ytimg.com/vi/37SwqREHRGI/maxresdefault.jpg"
         }
       ],
       "back-end": [
@@ -133,6 +148,11 @@
           "title": "O que é o C#? #HipstersPontoTube",
           "url": "https://www.youtube.com/watch?v=0JWMVc1CqpA",
           "thumb": "https://img.youtube.com/vi/0JWMVc1CqpA/hqdefault.jpg"
+        },
+        {
+          "title": "5 Projetos BACKEND para INICIANTES ( Guia programador - APRENDA a programar)",
+          "url": "https://www.youtube.com/watch?v=6d84jehVhog&ab_channel=AttekitaDev",
+          "thumb": "https://i3.ytimg.com/vi/6d84jehVhog/maxresdefault.jpg"
         }
       ]
     }
