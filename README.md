@@ -1,10 +1,3 @@
-<!-- 
-## Como está o nosso projeto?
-- `_app.js`: Carrega o setup base do projeto
-    - Aqui vão ficar os Providers de informação
-    - CSSReset -->
-
-
 # AluraTube
 
 | :placard: Vitrine.Dev |     |
